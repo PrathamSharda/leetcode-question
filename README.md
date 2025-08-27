@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
