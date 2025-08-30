@@ -1,91 +1,117 @@
 class Solution {
 public:
-    // int unionFind(vector<int>&par,int x)
-    // {
-    //     if(par[x]==x)
-    //     {
-    //         return x;
-    //     }
-    //     return par[x]=unionFind(par,par[x]);
-    // }
-    // void Union()
-
-    void bfs(vector<vector<char>>&board,int i,int j)
+    vector<int>rank;
+    int unionFind(vector<int>&par,int x)
     {
-        queue<pair<int,int>>q;
-        q.push({i,j});
-         board[i][j]='$';
-        while(!q.empty())
+        if(par[x]==x)
         {
-            auto [x,y]=q.front();
-            q.pop();
-            vector<int>path={0,-1,0,1,0};
-            
-            for(int l=1;l<5;l++)
+            return x;
+        }
+        return par[x]=unionFind(par,par[x]);
+    }
+
+    void Union(vector<int>&par,int x,int y)
+    {
+        int parX=unionFind(par,x);
+        int parY=unionFind(par,y);
+
+        if(parX==par.size()-1&&parY!=parX)
+        {
+            par[parY]=parX;
+            rank[parX]+=rank[parY];
+        
+        }
+        else if(parY==par.size()-1&&parY!=parX)
+        {
+            par[parX]=parY;
+            rank[parY]+=rank[parX];
+        }
+        else if(parX!=parY)
+        {
+            if(rank[parX]>rank[parY])
             {
-                int a=path[l-1]+x;
-                int b=path[l]+y;
-
-                if(a>=board.size()||b>=board[0].size()||a<0||b<0)continue;
-
-                if(board[a][b]=='$'||board[a][b]=='X')continue;
-
-                board[a][b]='$';
-
-                // cout<<a<<" "<<b<<endl;
-                q.push({a,b});
+                par[parY]=parX;
+                rank[parX]+=rank[parY];
+            }else{
+                par[parX]=parY;
+                rank[parY]+=rank[parX];
             }
         }
-
     }
+
+ 
     void solve(vector<vector<char>>& board) {
         
         //checks for first and last coloumn
+        int n=board.size();
+        int m=board[0].size();
+        vector<int>par(n*m+1,0);
+        rank.resize(n*m+1);
+        for(int i=0;i<=n*m;i++)
+        {
+            par[i]=i;
+            rank[i]=1;
+        }
         for(int i=0;i<board.size();i++)
         {
             if(board[i][0]=='O')
             {
-                
-                bfs(board,i,0);
+                Union(par,i*m,n*m);
             }
-             if(board[i][board[0].size()-1]=='O')
+            if(board[i][board[0].size()-1]=='O')
             {
-               
-                bfs(board,i,board[0].size()-1);
+                 Union(par,i*m+(m-1),n*m);
+            } 
+        }
+        for(int j=0;j<board[0].size();j++)
+        {
+            if(board[0][j]=='O')
+            {
+                Union(par,j,n*m);
+            }
+            if(board[board.size()-1][j]=='O')
+            {
+                Union(par,(n-1)*m+j,n*m);
             }
         }
-
-        //first and last row
-        for(int i=0;i<board[0].size();i++)
+        vector<int>path={0,1,0,-1,0};
+        for(int i=0;i<n;i++)
         {
-            if(board[0][i]=='O')
+            for(int j=0;j<m;j++)
             {
                 
-                bfs(board,0,i);
-            }
-             if(board[board.size()-1][i]=='O')
-            { 
-                // cout<<board.size()-1<<" "<<i<<endl;
-                bfs(board,board.size()-1,i);
-            }
-        }
-
-        //iterate over the rest and change the '$' to 'O'
-
-        for (int i=0;i<board.size();i++)
-        {
-            for(int j=0;j<board[0].size();j++)
-            {
                 if(board[i][j]=='O')
+                {
+
+                
+                for(int l=1;l<5;l++)
+                {
+                    int a=path[l-1]+i;
+                    int b=path[l]+j;
+
+                    if(a>=n||b>=m||a<0||b<0)continue;
+
+                    if(board[a][b]=='X')continue;
+
+                    Union(par,a*m+b,i*m+j);
+                }
+
+                }
+            }
+        }
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(board[i][j]=='X')continue;
+                if(unionFind(par,i*m+j)!=n*m)
                 {
                     board[i][j]='X';
                 }
-                 if(board[i][j]=='$')
-                {
-                    board[i][j]='O';
-                }
             }
         }
+
 
     }
 };
