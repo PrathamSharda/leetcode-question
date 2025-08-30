@@ -1,39 +1,60 @@
 class Solution {
 public:
-    bool bfs(vector<vector<char>>&grid,vector<vector<int>>&vis,int i,int j,int parI,int parJ)
-    {   
-        vis[i][j]=1;
-        vector<int>path={0,1,0,-1,0};
-        for(int l=0;l<4;l++)
+    vector<int>rank;
+    int unionFind(vector<int>&par,int x)
+    {
+        if(par[x]==x)
         {
-            int x=i+path[l];
-            int y=j+path[l+1];
-            if(x>=grid.size()||y>=grid[0].size()||x<0||y<0)continue;
-
-            if(grid[i][j]!=grid[x][y])continue;
-
-            if(x==parI&&y==parJ)continue;
-
-            if(vis[x][y]==1)return true;
-            
-            vis[x][y]=1;
-           if(bfs(grid,vis,x,y,i,j))
-           {
-            return true;
-           }
+            return x;
         }
-        return false;
+        return par[x]=unionFind(par,par[x]);
+    }
+
+    bool Union(vector<int>&par,int x,int y)
+    {
+        int parX=unionFind(par,x);
+        int parY=unionFind(par,y);
+        if(parX!=parY)
+        {
+            if(rank[parX]>rank[parY])
+            {
+                par[parY]=parX;
+                rank[parX]+=rank[parY];
+            }else{
+                par[parX]=parY;
+                rank[parY]+=rank[parX];
+            }
+            return false;
+        }
+        return true;
     }
     bool containsCycle(vector<vector<char>>& grid) {
-        vector<vector<int>>vis(grid.size(),vector<int>(grid[0].size(),0));
+        int n=grid.size();
+        int m=grid[0].size();
 
-        for(int i=0;i<grid.size();i++)
+        vector<int>par(n*m);
+        rank.resize(n*m);
+
+        for(int i=0;i<n*m;i++)
         {
-            for(int j=0;j<grid[0].size();j++)
+            par[i]=i;
+            rank[i]=1;
+        }
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
             {
-                if(vis[i][j]==0)
+                vector<int>path={0,1,0};
+                for(int k=0;k<2;k++)
                 {
-                    if(bfs(grid,vis,i,j,-1,-1))
+                    int a=i+path[k];
+                    int b=j+path[k+1];
+
+                    if(a>=n||b>=m||a<0||b<0)continue;
+                    if(grid[i][j]!=grid[a][b])continue;
+
+                    if(Union(par,i*m+j,a*m+b))
                     {
                         return true;
                     }
