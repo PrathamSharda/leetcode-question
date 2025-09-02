@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0011-container-with-most-water) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
+| [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Search
 |  |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
