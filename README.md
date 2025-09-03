@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Dynamic Programming
