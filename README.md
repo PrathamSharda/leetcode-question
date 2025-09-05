@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrathamSharda/leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
