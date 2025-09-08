@@ -20,19 +20,18 @@ public:
             PostData.push_back(it);
         }      
         PostData.push_back(userId);
-        stack<pair<int,int> >q;
+
         for(int i=0;i<PostData.size();i++)
         {
+            if(tweets[PostData[i]].size()==0)continue;
+            int n = (int)tweets[PostData[i]].size();
+            int size= tweets[PostData[i]].size()>10?10:tweets[PostData[i]].size();
 
-                for(int j=0;j<tweets[PostData[i]].size();j++)
-                {
-                    q.push(tweets[PostData[i]][j]);
-                    pq.push(tweets[PostData[i]][j]);
-                }
-
+            for(int j=n-1;j>=n-size;j--)
+            {
+                pq.push(tweets[PostData[i]][j]);
+            }
         }
-            
-        
         vector<int>result;
             int k=10;
             while(k&&!pq.empty())
