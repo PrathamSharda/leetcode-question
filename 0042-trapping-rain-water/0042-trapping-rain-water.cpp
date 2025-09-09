@@ -1,30 +1,39 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        
-        vector<int>suffix(height.size(),0);
-        vector<int>prefix(height.size(),0);
-        prefix[0]=height[0];
-        for(int i=1;i<prefix.size();i++)
+        stack<int>st;
+        for(int i=height.size()-1;i>=0;i--)
         {
-            prefix[i]=max(height[i],prefix[i-1]);
+            if(st.empty())
+            {
+                st.push(height[i]);
+            }else{
+                if(height[i]<st.top())
+                {
+                    continue;
+                }else{
+                    st.push(height[i]);
+                }
+            }
         }
-        int n=height.size();
-        suffix[n-1]=height[n-1];
-        for(int i=prefix.size()-2;i>=0;i--)
-        {
-            suffix[i]=max(height[i],suffix[i+1]);
-        }
+        int left=height[0];
         int total=0;
         for(int i=0;i<height.size();i++)
         {
-            int left=prefix[i];
-            int right=suffix[i];
-            if(height[i]<left&&height[i]<right)
+            if(height[i]<left&&height[i]<st.top())
             {
-                total+=min(right,left)-height[i];
+                total+=min(left,st.top())-height[i];
+            }
+            if(height[i]>left)
+            {
+                left=height[i];
+            }
+            if(height[i]>=st.top())
+            {
+                st.pop();
             }
         }
+
         return total;
 
     }
