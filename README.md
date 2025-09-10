@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
+| [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
