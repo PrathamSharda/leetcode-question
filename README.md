@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrathamSharda/leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 ## Graph
 |  |
 | ------- |
@@ -142,8 +144,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
