@@ -2,16 +2,14 @@ class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         stack<pair<int,int>>st;
-
-        vector<int>nge(asteroids.size(),-1);
         for(int i=0;i<asteroids.size();i++)
         {
             while(!st.empty()&&asteroids[i]<0 &&st.top().first<=abs(asteroids[i]))
             {
-                nge[st.top().second]=abs(asteroids[i]);
+                asteroids[st.top().second]=0;
                 if(st.top().first==abs(asteroids[i]))
                 {
-                    nge[i]=0;
+                    asteroids[i]=0;
                     st.pop();
                     break;
                 }
@@ -20,7 +18,7 @@ public:
             }
             if(!st.empty()&&asteroids[i]<0)
             {
-                nge[i]=st.top().first;
+                asteroids[i]=0;
             }
             if(asteroids[i]>0)
             {
@@ -28,14 +26,10 @@ public:
             }
         }
 
-        for(auto it:nge)
-        {
-            cout<<it<<" ";
-        }
         vector<int>Result;
-        for(int i=0;i<nge.size();i++)
+        for(int i=0;i<asteroids.size();i++)
         {
-            if(nge[i]!=-1)
+            if(asteroids[i]==0)
             {
                 continue;
             }
