@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 ## Hash Table
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
