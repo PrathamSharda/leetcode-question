@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/PrathamSharda/leetcode-question/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/PrathamSharda/leetcode-question/tree/master/0061-rotate-list) |
 | [0355-design-twitter](https://github.com/PrathamSharda/leetcode-question/tree/master/0355-design-twitter) |
 ## Design
 |  |
