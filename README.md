@@ -153,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/PrathamSharda/leetcode-question/tree/master/0355-design-twitter) |
+| [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
+| [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
