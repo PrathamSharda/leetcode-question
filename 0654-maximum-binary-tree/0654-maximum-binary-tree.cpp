@@ -11,28 +11,39 @@
  */
 class Solution {
 public:
-    TreeNode* elementMaker(vector<int>&nums,int left,int right)
-    {
-        if(left>=right)return nullptr;
-        int maxEle=-1;
-        int index=-1;
-        for(int i=left;i<right;i++){
-            if(maxEle<nums[i])
-            {
-                maxEle=nums[i];
-                index=i;
-            }
-        }
-        if(maxEle==-1)return nullptr;
-
-        TreeNode* root=new TreeNode(maxEle);
-
-        root->left=elementMaker(nums,left,index);
-        root->right=elementMaker(nums,index+1,right);
-        return root;
-
-    }
+ 
     TreeNode* constructMaximumBinaryTree(vector<int>& nums) {
-       return elementMaker(nums,0,nums.size());
+       stack<TreeNode*>st;
+       for(int i=0;i<nums.size();i++)
+       {
+            TreeNode* NewNode=new TreeNode(nums[i]);
+            TreeNode*prev=nullptr;
+            int flag=0;
+            while(!st.empty()&&st.top()->val<nums[i])
+            {
+                flag=1;
+                TreeNode*curr=st.top();
+                curr->right=prev;
+                prev=curr;
+                st.pop();
+            }
+            if(flag)
+            {
+                NewNode->left=prev;
+            }
+            st.push(NewNode);
+       }
+        TreeNode*prev=nullptr;
+         while(!st.empty())
+            {
+    
+                TreeNode*curr=st.top();
+                curr->right=prev;
+                prev=curr;
+                st.pop();
+            }
+            return prev;
+
+
     }
 };
