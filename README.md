@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
 ## Sorting
 |  |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
+| [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
+| [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
