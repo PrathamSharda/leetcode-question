@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrathamSharda/leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 ## Graph
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/PrathamSharda/leetcode-question/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/PrathamSharda/leetcode-question/tree/master/0890-lemonade-change) |
 ## Hash Table
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/PrathamSharda/leetcode-question/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
