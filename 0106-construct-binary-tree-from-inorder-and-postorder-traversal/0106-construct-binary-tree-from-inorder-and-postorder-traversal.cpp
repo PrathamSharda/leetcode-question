@@ -11,31 +11,28 @@
  */
 class Solution {
 public:
-int posFinder(vector<int>&arr,int num)
-{
-    for(int i=0;i<arr.size();i++)
-    {
-        if(arr[i]==num)return i;
-    }
-    return -1;
-}
-TreeNode* builder(vector<int>&inorder,vector<int>&postOrder,int &index,int left,int right )
+
+TreeNode* builder(vector<int>&inorder,vector<int>&postOrder,unordered_map<int,int>&mp,int &index,int left,int right )
 {
    
     if(index<0||index>inorder.size()-1)return nullptr;
     if(left>right)return nullptr;
-    int position=posFinder(inorder,postOrder[index]);
+    int position=mp[postOrder[index]];
     if(position>right||position<left)return nullptr;
     TreeNode*newNode= new TreeNode(postOrder[index]);
     index--;
-    newNode->right=builder(inorder,postOrder,index,position+1,right);
-    newNode->left=builder(inorder,postOrder,index,left,position-1);
+    newNode->right=builder(inorder,postOrder,mp,index,position+1,right);
+    newNode->left=builder(inorder,postOrder,mp,index,left,position-1);
     return newNode;
 
 }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int index=postorder.size()-1;
-
-        return builder(inorder,postorder,index,0,postorder.size()-1);
+        unordered_map<int,int>mp;
+        for(int i=0;i<inorder.size();i++)
+        {
+            mp[inorder[i]]=i;
+        }
+        return builder(inorder,postorder,mp,index,0,postorder.size()-1);
     }
 };
