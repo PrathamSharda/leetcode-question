@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/PrathamSharda/leetcode-question/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/PrathamSharda/leetcode-question/tree/master/0239-sliding-window-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 ## String
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/PrathamSharda/leetcode-question/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/PrathamSharda/leetcode-question/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0975-range-sum-of-bst) |
