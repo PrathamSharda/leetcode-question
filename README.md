@@ -248,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrathamSharda/leetcode-question/tree/master/0029-divide-two-integers) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/PrathamSharda/leetcode-question/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
