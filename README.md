@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrathamSharda/leetcode-question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrathamSharda/leetcode-question/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PrathamSharda/leetcode-question/tree/master/0055-jump-game) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrathamSharda/leetcode-question/tree/master/0029-divide-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PrathamSharda/leetcode-question/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PrathamSharda/leetcode-question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
