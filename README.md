@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/PrathamSharda/leetcode-question/tree/master/3114-beautiful-towers-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/PrathamSharda/leetcode-question/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0542-01-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/PrathamSharda/leetcode-question/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
