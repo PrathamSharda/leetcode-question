@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PrathamSharda/leetcode-question/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/PrathamSharda/leetcode-question/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/PrathamSharda/leetcode-question/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/PrathamSharda/leetcode-question/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
