@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/PrathamSharda/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/PrathamSharda/leetcode-question/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/PrathamSharda/leetcode-question/tree/master/0162-find-peak-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PrathamSharda/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Matrix
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/PrathamSharda/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PrathamSharda/leetcode-question/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/PrathamSharda/leetcode-question/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
