@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/PrathamSharda/leetcode-question/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/PrathamSharda/leetcode-question/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/PrathamSharda/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/PrathamSharda/leetcode-question/tree/master/0455-assign-cookies) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/PrathamSharda/leetcode-question/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PrathamSharda/leetcode-question/tree/master/0061-rotate-list) |
+| [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/PrathamSharda/leetcode-question/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrathamSharda/leetcode-question/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
