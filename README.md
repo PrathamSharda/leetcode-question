@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PrathamSharda/leetcode-question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PrathamSharda/leetcode-question/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/PrathamSharda/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PrathamSharda/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/PrathamSharda/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/PrathamSharda/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PrathamSharda/leetcode-question/tree/master/0146-lru-cache) |
