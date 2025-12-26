@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PrathamSharda/leetcode-question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0402-remove-k-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0812-rotate-string) |
 ## String Matching
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 ## Queue
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/PrathamSharda/leetcode-question/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
