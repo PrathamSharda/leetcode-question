@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PrathamSharda/leetcode-question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PrathamSharda/leetcode-question/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/PrathamSharda/leetcode-question/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PrathamSharda/leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/PrathamSharda/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/PrathamSharda/leetcode-question/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/PrathamSharda/leetcode-question/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
