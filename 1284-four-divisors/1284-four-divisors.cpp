@@ -17,6 +17,7 @@ public:
                     sum+=(number/i);
                 }
             }
+            if(count>4)break;
         }
         if(count!=4)return {false,0};
         return {true,sum};
