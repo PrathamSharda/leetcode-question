@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/PrathamSharda/leetcode-question/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
+| [1284-four-divisors](https://github.com/PrathamSharda/leetcode-question/tree/master/1284-four-divisors) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/PrathamSharda/leetcode-question/tree/master/3114-beautiful-towers-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PrathamSharda/leetcode-question/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
+| [1284-four-divisors](https://github.com/PrathamSharda/leetcode-question/tree/master/1284-four-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
