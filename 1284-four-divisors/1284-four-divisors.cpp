@@ -2,23 +2,23 @@ class Solution {
 public:
     pair<bool,int> matcher(int number)
     {
-
-        vector<int>total;
         int sum=0;
+        int count=0;
         for(int i=1;i<=sqrt(number);i++)
         {
             if(number%i==0)
             {
-                total.push_back(i);
+                
                 sum+=i;
+                count++;
                 if(i!=(number/i))
                 {
-                    total.push_back(number/i);
+                    count++;
                     sum+=(number/i);
                 }
             }
         }
-        if(total.size()!=4)return {false,0};
+        if(count!=4)return {false,0};
         return {true,sum};
 
     }
