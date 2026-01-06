@@ -2,7 +2,7 @@ class Solution {
 public:
     int romanToInt(string s) {
         char prev=' ';
-        unordered_map<char,int>mp;
+        vector<int>mp (256,0);
         mp[' ']=0;
         mp['I']=1;
         mp['V']=5;
