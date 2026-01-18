@@ -1,37 +1,30 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-       // vector<int>count(3,-1);
-        int total=0;
-        queue<int>a;
-        queue<int>b;
-        queue<int>c;
+        int count=0;
+        queue<int>qa;
+        queue<int>qb;
+        queue<int>qc;
         for(int i=0;i<s.length();i++)
         {
-            if(s[i]=='a')a.push(i);
-            else if(s[i]=='b')b.push(i);
-            else c.push(i);
+            if(s[i]=='a')qa.push(i);
+            else if(s[i]=='b')qb.push(i);
+            else qc.push(i);
         }
+        
         for(int i=0;i<s.length();i++)
         {
-              if(a.empty()||b.empty()||c.empty())break;
-            int indA=a.front();
-            int indB=b.front();
-            int indC=c.front();
-            if(i==indA)
-            a.pop();
-            if(i==indB)
-            b.pop();
-            if(i==indC)
-            c.pop();
+            if(qa.empty()||qb.empty()||qc.empty())break;
+            int indexA=qa.front();
+            int indexB=qb.front();
+            int indexC=qc.front();
 
-             int maxNum=max(max(max(indA,indB),max(indC,indB)),max(max(indC,indB),max(indA,indC)));
-             total+=(s.length()-maxNum);
-            
-
-          
+            int maxIndex=max(max(max(indexA,indexB),max(indexB,indexC)),max(indexC,indexA));
+            count+=(s.length()-maxIndex);
+            if(i==indexA)qa.pop();
+            else if(i==indexB)qb.pop();
+            else qc.pop();
         }
-       
-        return total;
+        return count;
     }
 };
