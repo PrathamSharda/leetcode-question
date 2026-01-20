@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/PrathamSharda/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/PrathamSharda/leetcode-question/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PrathamSharda/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 ## String
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PrathamSharda/leetcode-question/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PrathamSharda/leetcode-question/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PrathamSharda/leetcode-question/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/PrathamSharda/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PrathamSharda/leetcode-question/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PrathamSharda/leetcode-question/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamSharda/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0567-permutation-in-string) |
@@ -220,12 +224,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PrathamSharda/leetcode-question/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/PrathamSharda/leetcode-question/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/PrathamSharda/leetcode-question/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/PrathamSharda/leetcode-question/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
@@ -307,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrathamSharda/leetcode-question/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
