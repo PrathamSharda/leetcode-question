@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
 | [1284-four-divisors](https://github.com/PrathamSharda/leetcode-question/tree/master/1284-four-divisors) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PrathamSharda/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/PrathamSharda/leetcode-question/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/PrathamSharda/leetcode-question/tree/master/3114-beautiful-towers-i) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/PrathamSharda/leetcode-question/tree/master/3415-check-if-grid-satisfies-conditions) |
