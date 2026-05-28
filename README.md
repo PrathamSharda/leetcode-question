@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
 ## Queue
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/PrathamSharda/leetcode-question/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/PrathamSharda/leetcode-question/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PrathamSharda/leetcode-question/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PrathamSharda/leetcode-question/tree/master/0412-fizz-buzz) |
 | [1284-four-divisors](https://github.com/PrathamSharda/leetcode-question/tree/master/1284-four-divisors) |
 ## Bit Manipulation
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PrathamSharda/leetcode-question/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
