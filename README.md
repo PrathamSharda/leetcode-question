@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrathamSharda/leetcode-question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrathamSharda/leetcode-question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamSharda/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PrathamSharda/leetcode-question/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PrathamSharda/leetcode-question/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/PrathamSharda/leetcode-question/tree/master/0135-candy) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PrathamSharda/leetcode-question/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/PrathamSharda/leetcode-question/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrathamSharda/leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PrathamSharda/leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0678-valid-parenthesis-string) |
