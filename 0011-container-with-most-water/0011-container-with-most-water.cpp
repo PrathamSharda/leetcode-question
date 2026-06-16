@@ -1,19 +1,15 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int p1=0;
-        int p2=height.size()-1;
-        int maxVol=0;
-        while(p1<p2)
+    int maxArea(vector<int>& arr) {
+        int left=0;
+        int right=arr.size()-1;
+        int maxWater=0;
+        while(left<right)
         {
-            maxVol=max(maxVol,min(height[p1],height[p2])*(p2-p1));
-
-            if(height[p2]<height[p1])p2--;
-            else{
-                p1++;
-            }
-
+            maxWater=max(maxWater,min(arr[left],arr[right])*(right-left));
+            if(arr[left]<arr[right])left++;
+            else right--;
         }
-        return maxVol;
+        return maxWater;
     }
 };
