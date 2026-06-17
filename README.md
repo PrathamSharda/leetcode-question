@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/PrathamSharda/leetcode-question/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/PrathamSharda/leetcode-question/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/PrathamSharda/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [1284-four-divisors](https://github.com/PrathamSharda/leetcode-question/tree/master/1284-four-divisors) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/PrathamSharda/leetcode-question/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PrathamSharda/leetcode-question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PrathamSharda/leetcode-question/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/PrathamSharda/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PrathamSharda/leetcode-question/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/PrathamSharda/leetcode-question/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/PrathamSharda/leetcode-question/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/PrathamSharda/leetcode-question/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/PrathamSharda/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PrathamSharda/leetcode-question/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathamSharda/leetcode-question/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/PrathamSharda/leetcode-question/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
