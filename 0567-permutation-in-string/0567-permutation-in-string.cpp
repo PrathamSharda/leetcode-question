@@ -1,45 +1,45 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        string tempString="";
-      
-        vector<int>freq(26,0);
-      // cout<<s1<<" "<<s2<<endl;
-        for(int i=0;i<s1.length();i++)
+        if(s1.size()>s2.size())return false;
+        int left=0;
+        vector<int>hash(26,0);
+        vector<int>hash1(26,0);
+        for(int i=0;i<s1.size();i++)
         {
-            freq[s1[i]-'a']++;
+            hash[s1[i]-'a']++;
+            hash1[s2[i]-'a']++;
         }
-        int i=0;
-        int prev=-1;
-        
-        while(i<s2.length())
+        for(int i=s1.size();i<s2.size();i++)
         {
-            if(freq[s2[i]-'a']>0)
+            int flag=0;
+            for(int j=0;j<26;j++)
             {
-                int inc=1;
-                int flag=0;
-                if(s2.length()-i<s1.length())break;
-                for(int j=i;j<i+s1.length();j++)
+                if(hash[j]!=hash1[j])
                 {
-                    freq[s2[j]-'a']--;
-                    if(freq[s2[j]-'a']<0)
-                    {
-                        flag=1;
-                        inc=j+1;
-                        break;
-                    }
+                    flag=1;
+                    continue;
                 }
-                if(flag==0)return true;
-
-                for(int j=i;j<inc;j++)
-                {
-                   freq[s2[j]-'a']++; 
-                }
-                
-
             }
-            i++;
+            if(flag==0)return true;
+
+            hash1[s2[left]-'a']--;
+            left++;
+            hash1[s2[i]-'a']++;
+            
         }
-        return false;
+        int flag=0;
+            for(int j=0;j<26;j++)
+            {
+                if(hash[j]!=hash1[j])
+                {
+                    flag=1;
+                    continue;
+                }
+            }
+            if(flag==0)return true;
+
+            return false;
+
     }
 };
