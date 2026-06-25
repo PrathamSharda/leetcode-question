@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/PrathamSharda/leetcode-question/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/PrathamSharda/leetcode-question/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/PrathamSharda/leetcode-question/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/PrathamSharda/leetcode-question/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/PrathamSharda/leetcode-question/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/PrathamSharda/leetcode-question/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/PrathamSharda/leetcode-question/tree/master/0940-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PrathamSharda/leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/PrathamSharda/leetcode-question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathamSharda/leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0792-binary-search](https://github.com/PrathamSharda/leetcode-question/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
