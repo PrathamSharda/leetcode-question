@@ -1,31 +1,30 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        vector<vector<int>>ans(100,vector<int>(0,0));
-
-        unordered_map<int,int>mp;
+        map<int,int>hash;
+        int maxi=0;
         for(int i=0;i<nums.size();i++)
         {
-            mp[nums[i]]++;
+            
+            hash[nums[i]]++;
+            maxi=max(hash[nums[i]],maxi);
         }
-        for(auto it:mp)
+        vector<vector<int>>hash2(maxi+1,vector<int>());
+        for(auto it:hash)
         {
-           // cout<<it.first<<" "<<it.second<<endl;   
-            ans[it.second].push_back(it.first);
+            hash2[it.second].push_back(it.first);
         }
+         
         vector<int>output;
-        for(int i=ans.size()-1;i>=0;i--)
+        int i=hash2.size()-1;
+        while(k>0)
         {
-            if(ans[i].size()!=0&&k!=0)
+            if(hash2[i].size()!=0)
             {
-                for(int it:ans[i])
-                {
-                    if(k==0)break;
-                    k--;
-                    output.push_back(it);
-                }
-                
-            }else if (k==0)break;
+                output.insert(output.end(),hash2[i].begin(),hash2[i].end());
+                k-=hash2[i].size();
+            }
+            i--;
         }
         return output;
     }
